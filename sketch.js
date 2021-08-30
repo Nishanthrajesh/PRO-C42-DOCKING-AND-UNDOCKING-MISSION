@@ -5,12 +5,12 @@ var hasDocked = false;
 
 function preload() 
 {
-  backgroundIMG = loadImage("images/spacebg.jpg");
-  issIMG = loadImage("images/iss.png");
-  spacecraftIMG = loadImage("images/spacecraft1.png");
-  bothMotorsIMG = loadImage("images/spacecraft2.png");
-  leftMotorIMG = loadImage("images/spacecraft3.png");
-  rightMotorIMG = loadImage("images/spacecraft4.png");
+  backgroundIMG = loadImage("spacebg.jpg");
+  issIMG = loadImage("iss.png");
+  spacecraftIMG = loadImage("spacecraft1.png");
+  bothMotorsIMG = loadImage("spacecraft2.png");
+  leftMotorIMG = loadImage("spacecraft3.png");
+  rightMotorIMG = loadImage("spacecraft4.png");
 }
 
 
